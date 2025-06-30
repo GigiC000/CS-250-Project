@@ -1,2 +1,12 @@
 # CS-250-Project
-Sprint Review and Retrospective
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+What does it mean to be a good team member in software development?
+
+Understanding and implementing user needs is essential in building software that people actually use and find valuable. In the travel agency software project, we started by identifying what users needed most—features like viewing recommended destinations, comparing trip types, and easily navigating between differnt offerings. To capture these needs in a development-friendly format, we wrote user stories such as: “As a frequent traveler, I want customized reccomenedations based on my travel preferences.” This helped break down high-level goals into small, testable functions that developers could implement and testers could verify.
+
+Throughout the project, we followed an Agile-inspired workflow. Early on, I worked as the Product Owner, creating the initial backlog, writing user stories, and prioritizing features based on user interviews. When the client pivoted to a wellness and detox focus mid-project, we used Agile principles—short sprints, regular check-ins, and backlog grooming—to shift our development plan without derailing progress. Later, I transitioned into a Developer role, where I implemented filtering logic and updated the UI to reflect the client’s revised goals. We also practiced continuous feedback: after each sprint, we reviewed what worked, what didn’t, and adjusted accordingly.
+
+Being a strong team member in software development means understanding your role while staying flexible enough to support others. During the project, I shifted between Product Owner, Tester, and Developer roles. That flexibility allowed me to contribute where needed, whether by writing and running functional test cases, refactoring the destination comparison component, or clarifying scope with stakeholders. I made a point of maintaining clear communication with the team, documenting my work, and asking for feedback early. These habits helped us stay on track even as priorities changed.
+
+In the end, delivering a product that met the client’s evolving needs came down to staying user-focused, working iteratively, and collaborating well. Those are principles I plan to carry into future projects, regardless of the tools or technologies involved.
